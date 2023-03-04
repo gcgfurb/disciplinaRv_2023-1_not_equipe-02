@@ -5,8 +5,11 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-- Computação:  
-- Pedagogia:  
+    Eduarda Engels  
+    Gabriel Panca Ribeiro  
+    Gustavo Felipe Soares  
+    João Vitor Persuhn  
+    Mônica Luíza Doege  
 
 Assunto:  
 
