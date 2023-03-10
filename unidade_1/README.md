@@ -4,23 +4,24 @@ Local para postar a atividade da unidade 1.
 
 ## Avaliação
 
-### Trabalho Correlato 1
+[Atividade1_slides](Atividade1_slides.pdf)
 
-Acadêmico:  
-Comentários:  
+### Conceitos
 
--  
+- Ferramenta construtiva – adiciona elementos ao ambiente;  
+- Ferramenta destrutiva – mascara os elementos do ambiente;  
 
-### Trabalho Correlato 2
+### Google 3D
 
-Acadêmico:  
-Comentários:  
+- muito "prático" e fácil de usar  
+- poder aumentar o "poder" de venda  
 
--  
+### Pokémon GO
 
-### Trabalho Correlato 3
+- antecessor jogo da Google Ingress  
+- pode usar a Pokebola, algo do mundo real para interagir com o mundo virtual  
 
-Acadêmico:  
-Comentários:  
+### Inkhunter
 
--  
+- um pouco "entretenimento", mas tem rotinas que poderiam ser usadas em projetos "sérios"  
+- usa um marcador físico riscando o braço  
