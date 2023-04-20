@@ -1,0 +1,7 @@
+Sistema de realidade aumentada para mostrar os órgãos e sistemas do corpo humano. 
+  - Nossa ideia era utilizar um esqueleto de tamanho real como marcador, e dentro dele colocar os órgãos
+  - Para isso iremos precisar de um asset com as imagens/animacões pronto dos órgãos
+  - Precisaremos também pesquisar sobre o Vulforia e AR foundation
+  - Se conseguirmos, queremos poder montar um sistema qualquer do corpo humano, como se fosse um jogo.
+    - Exemplo: montar o sistema digestivo na ordem correta dentro do esqueleto
+  - Uma outra ideia seria utilizar marcadores para funcionar como box de informações, utilizando o cursor para apontar para qual orgão deseja saber sobre.
