@@ -3,7 +3,7 @@
 Atividades desenvolvidas na disciplina de Computação Gráfica na FURB/DSC/BCC.  
 Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.  
 
-## [Kanban](https://github.com/orgs/gcgfurb/projects/2). 
+## [Kanban](https://github.com/orgs/gcgfurb/projects/2)  
 
 ## Alunos
 
