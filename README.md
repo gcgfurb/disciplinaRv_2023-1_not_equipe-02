@@ -3,9 +3,7 @@
 Atividades desenvolvidas na disciplina de Computação Gráfica na FURB/DSC/BCC.  
 Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.  
 
-## [Kanban](https://github.com/orgs/gcgfurb/projects/2)  
-
-## Alunos
+## Alunos  
 
     Eduarda Engels  
     Gabriel Panca Ribeiro  
@@ -13,7 +11,11 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
     João Vitor Persuhn  
     Mônica Luíza Doege  
 
-Assunto:  
+## Assunto
+
+## Kanban
+
+<https://github.com/users/gus-soares19/projects/1/views/1>
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
