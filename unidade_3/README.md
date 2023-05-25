@@ -31,6 +31,10 @@ Nesta apresentação se pode utilizar slides, videos, ou mesmo de aplicações q
 
 Assets com órgãos.  
 
+Usar o usuário
+Usr: dalton.reis@gmail.com  
+Pwd: Furb2022  
+
 <https://assetstore.unity.com/packages/3d/characters/humanoids/humans/skeleton-with-internal-organs-rigged-175142>  
 
 <https://assetstore.unity.com/packages/3d/characters/hq-human-internal-organs-139399>  
