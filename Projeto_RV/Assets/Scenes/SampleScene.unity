@@ -405,8 +405,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PreviewVisible: 1
-  RuntimeOcclusion: 0
-  RuntimeCollider: 0
+  RuntimeOcclusion: 1
+  RuntimeCollider: 1
   mTrackableName: zezinho_2
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/zezinho_2.xml
